@@ -1,0 +1,34 @@
+# Cybersecurity Basics: 12-Hour Hacking Course Exploration
+
+This repository documents my journey through a 12-hour introductory hacking course. My goal is to grasp the fundamental concepts of cybersecurity and ethical hacking, providing a foundation for future exploration and experimentation.
+
+**Project Motivation:**
+
+This course is designed to introduce me to the core principles of cybersecurity. By learning the basics, I aim to create a playground for safe and ethical experimentation, allowing me to understand how these concepts work in practice.
+
+**Course Scope:**
+
+The 12-hour course covers:
+
+* **Networking Fundamentals:** Basic network concepts and protocols.
+* **Linux Command Line:** Essential Linux commands for cybersecurity.
+* **Web Application Basics:** Introduction to web vulnerabilities.
+* **Basic Security Tools:** Overview of common security tools.
+* **Ethical Hacking Concepts:** Introduction to ethical hacking methodologies.
+
+**Expected Outcomes:**
+
+* **Understanding of Cybersecurity Basics:** Grasping core concepts and terminology.
+* **Familiarity with Basic Security Tools:** Learning how to use common security tools.
+* **Linux Command Line Proficiency:** Developing basic command-line skills.
+* **Web vulnerability Awareness:** Understanding how basic web vulnerabilities work.
+* **Learning Documentation:** Maintaining a record of my learning and course exercises.
+* **Basic Hacking "Playground":** Setting up a safe environment to explore the tools and techniques.
+
+**Learning Approach:**
+
+This repository will contain notes, code snippets, and exercises from the course. I'll document my learning process, focusing on understanding the "why" behind each concept and tool.
+
+**Future Considerations:**
+
+After completing the course, I plan to use this foundation to build a safe environment for practicing and experimenting with the learned techniques. This will involve setting up virtual machines and exploring basic penetration testing tools.
