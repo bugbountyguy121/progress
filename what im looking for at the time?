@@ -1,0 +1,12 @@
+# Building an E-commerce Website for Pentesting Practice
+
+This repository documents my journey in building a full-stack e-commerce website from scratch. My goal is to gain a deep understanding of web development principles within the context of an online store. This project will involve implementing features like user authentication, product catalogs, shopping carts, and payment processing.
+
+Understanding the complexities of an e-commerce platform is crucial for penetration testing. I aim to learn how these features work to better identify and exploit potential vulnerabilities.
+
+**Key Objectives:**
+
+* Build a functional e-commerce website with core features.
+* Gain practical experience with e-commerce development technologies.
+* Develop a strong understanding of e-commerce application architecture.
+* Apply this knowledge to improve my penetration testing skills, specifically in e-commerce security.
